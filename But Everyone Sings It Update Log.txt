@@ -10,3 +10,6 @@ Update 2:
 
 Update 3:
 - Added Ejected from the Vs Impostor Mod.
+
+Update 4:
+- Added Detected from the Vs Hex Mod.
